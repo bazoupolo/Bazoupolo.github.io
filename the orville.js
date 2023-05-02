@@ -1,21 +1,24 @@
-console.log{"Bonjour le monde"}
+console.log("Bonjour le monde")
 
 var nom = "Thaddey"
-
-if { 1+1==2 } {
-    console.log{"c'est thaddey "}
-    document.body.style = 
+var age = "13"
+if  (1+1 == 2 ) {
+    console.log("c'est thaddey ")
+    
 } else {
 
-    console.log{"c'est pas thaddey "}
+    console.log("c'est pas thaddey ")
 
 
 }
 
-function direBonjour {}  {
+function direBonjour ()  {
 
-    console.log{"bonjour " + nom }
+    console.log("bonjour " + nom + "tu as" + "ans" )
 
 
 }
+
+
+
 {}
